@@ -1,18 +1,18 @@
 Este archivo tiene lo siguiente:
-Version 3
+Version 4
 
 Original: Este archivo se escribe para edad 25
 Cambio: Cuando haga el cambio la edad 100 debe ser otra cosa de arriba.
 
 Original: Pueden haber otros cambios, pero el original se debe mantener sin ellos como referencia 1
-Cambio: La referencia que es el Numero a continuación __100000__ debe ser diferente arriba y abajo.
+Cambio: La referencia que es  a continuación __100000__ debe ser diferente arriba y abajo.
 
 
 Original: Texto hermoso que hay aqui tendra otra cosa abajo.
-Cambio:   Texto hermoso que ha cambiado en la 3ra version.
+Cambio:   Texto hermoso que ha cambiado en la 4ta version.
 
 
 
-Suerte... y mucha.
+Suerte... y mucha... pero mucha
 
 Para ustedes.
