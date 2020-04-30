@@ -1,0 +1,15 @@
+Este archivo tiene lo siguiente:
+
+Original: Este archivo se escribe para edad 25
+Cambio: Cuando haga cambio la edad 25 debe ser diferente a la de arriba.
+
+Original: Pueden haber otros cambios, pero el original se debe mantener sin ellos como referencia 1
+Cambio: La referencia que es el Numero a continuación __1__ debe ser diferente al de arriba.
+
+
+Original: Texto hermoso que hay aqui tendra otra cosa abajo.
+Cambio:   Texto hermoso que hay aqui tendra otra cosa abajo.
+
+
+
+Suerte.
