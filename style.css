@@ -37,3 +37,13 @@ body{
 #post{
     padding: 1em;
 }
+
+#footer{
+    width: 70%;
+    padding: 1em;
+    background: grey;
+    height: 50px;
+    margin: 0 auto;
+    color: black;
+
+}
